@@ -1,0 +1,19 @@
+.firstSection {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+.input1 {
+  margin: 5px;
+  padding: 10px;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+}
+
+.save {
+  margin: 5px;
+}
